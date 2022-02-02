@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kartik3129
 - 👀 I’m interested in linux
 - 🌱 I’m currently learning linux,python
-- 💞️ I’m looking to collaborate on Etical hackers
+- 💞️ I’m looking to collaborate on Ethical hacking
 - 📫 How to reach me via github profile
 
 <!---
